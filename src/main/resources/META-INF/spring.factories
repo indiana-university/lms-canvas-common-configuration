@@ -1,2 +1,3 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-edu.iu.uits.lms.common.CommonConfigInfoContributor
+edu.iu.uits.lms.common.CommonConfigInfoContributor,\
+edu.iu.uits.lms.common.it12logging.It12LoggingSecurityConfig
